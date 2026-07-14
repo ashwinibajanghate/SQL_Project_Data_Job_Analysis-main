@@ -55,7 +55,7 @@ Here's the breakdown of the top paying Data Analyst jobs in 2023:
 - **Data Architecture Roles Lead the Market:** Data Architect positions account for most of the highest-paying jobs, indicating that professionals with expertise in designing and managing enterprise data systems are among the most highly compensated.
 - **Top Opportunities in Major Tech Hubs:** Leading companies such as ServiceNow, Bosch Group, Deutsche Bank, Upstox, and Poshmark are hiring primarily in Bengaluru, Hyderabad, Mumbai, Chennai, and Gurugram, highlighting these cities as key destinations for high-paying data careers.
 
-![Top Paying Roles](SQL_Project_Data_Job_Analysis-main\assets\top10_paying_roles.png)
+![Top Paying Roles](./assets/top10_paying_roles.png)
 
 *Bar chart visualizing the average annual salaries of the top 10 highest-paying Data Analyst jobs in India (2023), generated from SQL query results by ChatGPT.* 
 
@@ -97,7 +97,7 @@ Here's a breakdown of the results for Skills Required in the Top 10 Highest-Payi
 - **Cloud, database**, and **big data technologies** including **AWS, Azure, Oracle, Spark, MongoDB, Hadoop,** and **Databricks** appear frequently, showing that employers highly value candidates who can work with modern data platforms and large-scale data systems.
 - **Python** and **Power BI** remain key complementary skills, indicating that the highest-paying positions require a combination of programming, analytics, visualization, and data engineering expertise rather than relying on a single technical skill.
 
-![Skill for Top Paying Jobs](SQL_Project_Data_Job_Analysis-main\assets\top10_skill_paying_job.png)
+![Skill for Top Paying Jobs](./assets/top10_skill_paying_job.png)
 
 *Bar chart visualizing the count of skills for the top 10 highest-paying Data Analyst jobs in India (2023), generated from SQL query results by ChatGPT.* 
 
@@ -242,3 +242,4 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
